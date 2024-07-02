@@ -1,5 +1,5 @@
-<h1 style="text-align: center">ATIVIDADE 4</h1>
-<h2 style="text-align: center">12pts</h2>
+<h1>ATIVIDADE 4</h1>
+<h2>12pts</h2>
 
 <ol>
 <li>Tenha, em alguma parte do seu site, um redirecionamento para um link externo, configurando corretamente os parâmetros rel e target para um link externo.</li>
